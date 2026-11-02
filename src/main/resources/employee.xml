@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+    <employee>
+        <id>101</id>
+        <name>Rahul</name>
+        <age>25</age>
+        <department>Java Developer</department>
+    </employee>
+
+    <employee>
+        <id>102</id>
+        <name>Priya</name>
+        <age>24</age>
+        <department>Software Tester</department>
+    </employee>
+    
+    <employee>
+    <id>103</id>
+    <name>Gayathri</name>
+    <age>22</age>
+    <department>Assosicate technical Consultant</department>
+    </employee>
+    
+</employees>

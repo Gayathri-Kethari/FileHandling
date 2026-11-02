@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+<student>
+<id>1</id>
+<name>Gayathri</name>
+<email>gayathri@gmail.com</email>
+</student>
+<student>
+<id>2</id>
+<name>Aishwarya</name>
+<email>aishu@gmail.com</email>
+</student>
+<student>
+<id>3</id>
+<name>Chandra</name>
+<email>chandra@gmail.com</email>
+</student>
+
+
+</students>
